@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kz.gsg-rt.ru/sitemap-index.xml
