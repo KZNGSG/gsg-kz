@@ -1,4 +1,12 @@
 User-agent: *
 Allow: /
+Disallow: /search/
+Disallow: /preview/
+Disallow: /draft/
+
+User-agent: Yandex
+Allow: /
+Disallow: /search/
+Clean-param: utm_source&utm_medium&utm_campaign&yclid&gclid
 
 Sitemap: https://kz.gsg-rt.ru/sitemap-index.xml
